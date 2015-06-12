@@ -15,13 +15,4 @@
             <var>bundle</var>
         </resource-bundle>
     </application>
-     <navigation-rule>
-        <from-view-id>/login.xhtml</from-view-id>
-        <navigation-case>
-            <from-outcome>home</from-outcome>
-            <to-view-id>/home.xhtml</to-view-id>
-        <redirect>     
-        </redirect>
-        </navigation-case>
- </navigation-rule>
 </faces-config>
