@@ -10,5 +10,6 @@
     </properties>
   <modules>
     <module>jsp-servlet</module>
+    <module>jsf-primefaces</module>
   </modules>
 </project>

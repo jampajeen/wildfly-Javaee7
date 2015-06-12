@@ -1,1 +1,1 @@
-# wildfly-Javaee7
+# Java EE7 + Wildfly + Netbeans Examples 
