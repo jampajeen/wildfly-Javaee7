@@ -12,5 +12,6 @@
     <module>jsp-servlet</module>
     <module>jsf-primefaces</module>
     <module>spring-mvc</module>
+    <module>jpa-hibernate-jsf</module>
   </modules>
 </project>

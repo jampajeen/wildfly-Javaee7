@@ -16,3 +16,4 @@ hs_err_pid*
 nb-configuration.xml
 /jsf-primefaces/target/
 /spring-mvc/target/
+/jpa-hibernate-jsf/target/
