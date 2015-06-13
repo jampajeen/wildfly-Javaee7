@@ -11,5 +11,6 @@
   <modules>
     <module>jsp-servlet</module>
     <module>jsf-primefaces</module>
+    <module>spring-mvc</module>
   </modules>
 </project>
