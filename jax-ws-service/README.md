@@ -1,6 +1,6 @@
 # Jax-ws Examples 
 
-Examples in this project are about creating JAX-WS application
+Example in this project is about creating JAX-WS application.
 
 To build project
 ```
