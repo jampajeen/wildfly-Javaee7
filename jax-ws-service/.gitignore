@@ -17,6 +17,3 @@ nb-configuration.xml
 /jsf-primefaces/target/
 /spring-mvc/target/
 /jpa-hibernate-jsf/target/
-/JEE8-MVC-1.0/target/
-/jsp-servlet/target/
-/jax-ws-service/target/
