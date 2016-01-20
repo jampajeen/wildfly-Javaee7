@@ -14,5 +14,6 @@
     <module>spring-mvc</module>
     <module>jpa-hibernate-jsf</module>
     <module>jax-ws-service</module>
+    <module>jax-rs</module>
   </modules>
 </project>
